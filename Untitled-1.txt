@@ -1,10 +1,44 @@
-03, 04, 06, 08, 09, 10, 11, 16, 18, 19, 20, 22, 23, 24, 25
-03, 04, 06, 08, 09, 10, 11, 16, 18, 19, 20, 22, 23, 24, 25
-03, 04, 06, 08, 09, 10, 11, 16, 18, 19, 20, 22, 23, 24, 25
-03, 04, 06, 08, 09, 10, 11, 16, 18, 19, 20, 22, 23, 24, 25
-03, 04, 06, 08, 09, 10, 11, 16, 18, 19, 20, 22, 23, 24, 25
-03, 04, 06, 08, 09, 10, 11, 16, 18, 19, 20, 22, 23, 24, 25
-03, 04, 06, 08, 09, 10, 11, 16, 18, 19, 20, 22, 23, 24, 25
-03, 04, 06, 08, 09, 10, 11, 16, 18, 19, 20, 22, 23, 24, 25
-03, 04, 06, 08, 09, 10, 11, 16, 18, 19, 20, 22, 23, 24, 25
-03, 04, 06, 08, 09, 10, 11, 16, 18, 19, 20, 22, 23, 24, 25
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Minha Página</title>
+</head>
+<body>
+    <header>
+        <h1>Título da Página</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Início</a></li>
+                <li><a href="#">Sobre</a></li>
+                <li><a href="#">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h2>Seção Principal</h2>
+        <p>Este é um parágrafo de exemplo.</p>
+
+        <ul>
+            <li>Item 1</li>
+            <li>Item 2</li>
+            <li>Item 3</li>
+        </ul>
+
+        <ol>
+            <li>Item 1</li>
+            <li>Item 2</li>
+            <li>Item 3</li>
+        </ol>
+
+        <img src="https://via.placeholder.com/150" alt="Imagem de Exemplo">
+    </main>
+
+    <footer>
+        © 2023 Minha Empresa
+    </footer>
+
+</body>
+</html>
+
